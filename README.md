@@ -1,5 +1,9 @@
 # Imagineering: AI-Optimized Knowledge Base
 
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/CoachSteff/imagineering/releases)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CoachSteff/imagineering/graphs/commit-activity)
+
 > **👤 NOTICE FOR HUMAN READERS:** This README is optimized for AI consumption to provide rich context when this repository is referenced in AI prompts. For a human-friendly quick start guide, please see **[QUICKSTART.md](QUICKSTART.md)** instead.
 
 ---
