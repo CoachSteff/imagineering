@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:docs.github.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:*.anthropic.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
