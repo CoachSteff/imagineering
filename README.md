@@ -1,4 +1,4 @@
-# Imagineering AI Coach — Instruction Set (Simplified)
+# Imagineering AI Coach — Instruction Set
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/CoachSteff/imagineering/releases)
