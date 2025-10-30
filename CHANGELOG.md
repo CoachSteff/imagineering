@@ -5,6 +5,19 @@ All notable changes to the Imagineering repository will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2025-10-30
+
+### Changed
+- Standardized framework filenames to lowercase, hyphenated form
+- Updated `README.md`, `QUICKSTART.md`, and `REFERENCE.md` to reflect structure
+- Added agent scaffolding for `orchestrator/`
+
+### Removed
+- Legacy/duplicate framework files and temporary release/setup summaries
+
+### Fixed
+- Internal links impacted by filename changes
+
 ## [1.0.0] - 2025-10-28
 
 ### Added

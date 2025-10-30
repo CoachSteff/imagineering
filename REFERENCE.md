@@ -70,56 +70,27 @@ This principle manifests in every aspect of the Imagineering approach:
 
 ## The Four Core Frameworks
 
-### 1. ICE Model (Imagine-Create-Execute)
+### 1. ICE-Model (Innovation, Creativity, Entrepreneurship)
 
-**Developed by:** Steff Vanhaverbeke / CS Workx  
-**Full Documentation:** [frameworks/ICE-model.md](frameworks/ICE-model.md)
+**Origin (Dutch):** Harry van der Schans / iDNA duurzaam leren innoveren  
+**Full Documentation:** [frameworks/ice-model.md](frameworks/ice-model.md)
 
-**Core Concept:** Three-phase framework for systematic innovation that separates divergent thinking (Imagine), convergent refinement (Create), and practical implementation (Execute).
-
-**Key Components:**
-
-**Imagine Phase (Divergent Thinking):**
-- Goal: Generate possibilities without judgment
-- Mindset: What if? Why not? Anything is possible
-- Activities: Brainstorming, assumption challenging, exploring adjacent possibilities
-- Deliverable: Wide range of ideas and possibilities
-
-**Create Phase (Convergent Thinking):**
-- Goal: Refine best ideas into concrete concepts
-- Mindset: How might this work? What's essential?
-- Activities: Clustering, prototyping, testing desirability, synthesizing
-- Deliverable: Refined concept or prototype
-
-**Execute Phase (Implementation):**
-- Goal: Ship something real into the world
-- Mindset: What's the smallest testable version?
-- Activities: Build MVP, measure results, iterate based on feedback
-- Deliverable: Launched solution with learning metrics
+**Core Concept:** Seven non‑linear perspectives—PIT (meta‑reflection), PRIKKEL (trigger), CONTEXT (clarify), VRAAG (core question), IDEE (ideas), OPLOSSING (solution via prototypes), PITCH (present). Navigate flexibly and return to PIT to steer process.
 
 **When to Use:**
-- Moving from abstract ideas to concrete deliverables
-- Preventing premature convergence on suboptimal solutions
-- Ensuring adequate exploration before commitment
-- Balancing creativity with practical execution
+- You want a flexible, structured path from identifying a trigger to pitching a validated solution
+- You need to combine divergent and convergent thinking without forcing a strict sequence
 
-**Integration Points:** Works as meta-framework with other models (Disney Method phases map to ICE phases; Blue Ocean actions occur within ICE structure)
-
-**Origins and Attribution:**
-The ICE Model builds on established innovation and design thinking principles, drawing inspiration from:
-- Design Thinking methodology (Stanford d.school, IDEO)
-- Divergent-Convergent thinking research (J.P. Guilford)
-- Lean Startup principles (Eric Ries: Build-Measure-Learn)
-- Innovation process frameworks (Stage-Gate, Double Diamond)
-
-The synthesis and specific application to AI-augmented work contexts is original to this repository.
+**Integration Points:**
+- Resonates with Six Thinking Hats (e.g., White=Context, Green=Ideas, Blue=PIT)
+- Complements Disney roles (Dreamer for IDEE, Realist for OPLOSSING planning, Critic before PITCH)
 
 ---
 
 ### 2. Disney Imagineering Method (Dreamer-Realist-Critic)
 
 **Originally Developed by:** Walt Disney; modeled by Robert Dilts  
-**Full Documentation:** [frameworks/Disney-Imagineering.md](frameworks/Disney-Imagineering.md)
+**Full Documentation:** [frameworks/disney-imagineering-strategy.md](frameworks/disney-imagineering-strategy.md)
 
 **Core Concept:** Role-based thinking framework that separates three perspectives that typically conflict when employed simultaneously.
 
@@ -161,7 +132,7 @@ The synthesis and specific application to AI-augmented work contexts is original
 ### 3. Blue Ocean Strategy (Value Innovation)
 
 **Developed by:** W. Chan Kim & Renée Mauborgne  
-**Full Documentation:** [frameworks/Blue-Ocean.md](frameworks/Blue-Ocean.md)
+**Full Documentation:** [frameworks/blue-ocean-strategy.md](frameworks/blue-ocean-strategy.md)
 
 **Core Concept:** Strategic framework for creating uncontested market space by making competition irrelevant through simultaneous differentiation and cost reduction.
 
@@ -228,7 +199,7 @@ The synthesis and specific application to AI-augmented work contexts is original
 ### 4. Six Thinking Hats (Parallel Thinking)
 
 **Developed by:** Edward de Bono  
-**Full Documentation:** [frameworks/6-Thinking-Hats.md](frameworks/6-Thinking-Hats.md)
+**Full Documentation:** [frameworks/six-thinking-hats.md](frameworks/six-thinking-hats.md)
 
 **Core Concept:** Structured thinking method where participants adopt the same perspective simultaneously, cycling through six distinct modes of thinking.
 
@@ -711,10 +682,10 @@ In these cases, acknowledge limitations and use other approaches.
 ### Within This Repository
 
 **Framework Documentation:**
-- [ICE Model](frameworks/ICE-model.md) - Complete guide with examples
-- [Disney Method](frameworks/Disney-Imagineering.md) - Role-based thinking deep dive
-- [Blue Ocean Strategy](frameworks/Blue-Ocean.md) - Value innovation framework
-- [Six Thinking Hats](frameworks/6-Thinking-Hats.md) - Parallel thinking system
+- [ICE Model](frameworks/ice-model.md) - Complete guide with examples
+- [Disney Strategy](frameworks/disney-imagineering-strategy.md) - Role-based thinking deep dive
+- [Blue Ocean Strategy](frameworks/blue-ocean-strategy.md) - Value innovation framework
+- [Six Thinking Hats](frameworks/six-thinking-hats.md) - Parallel thinking system
 
 **Practical Examples:**
 - [Example Session 1](examples/example-session-1.md) - 60-minute ICE + Disney session
@@ -731,12 +702,12 @@ In these cases, acknowledge limitations and use other approaches.
 **Books:**
 - "Blue Ocean Strategy" by W. Chan Kim & Renée Mauborgne
 - "Six Thinking Hats" by Edward de Bono
-- "Strategies of Genius" by Robert Dilts (Disney Method)
+- "Strategies of Genius" by Robert Dilts (Disney Strategy)
 - "The Lean Startup" by Eric Ries
 - "Experiential Learning" by David Kolb
 
 **Related Frameworks:**
-- SuperPrompt Framework: https://github.com/CoachSteff/superprompt-framework
+- SuperPrompt Framework: https://github.com/CoachSteff/superprompt
 - Design Thinking: Stanford d.school resources
 - IDEO Design Kit
 - Lean Startup methodology
@@ -754,10 +725,12 @@ In these cases, acknowledge limitations and use other approaches.
 - Forkable and adaptable for educational use
 
 **Framework Attribution:**
-- ICE Model: Developed by Steff Vanhaverbeke / CS Workx (building on Design Thinking, Lean Startup, and innovation research)
-- Disney Imagineering Method: Originally Walt Disney; modeled by Robert Dilts
+- ICE Model: Origin (Dutch) — Harry van der Schans / iDNA duurzaam leren innoveren (this English write‑up adapts the Dutch source)
+- Disney Imagineering Method: Originally Walt Disney Imagineering; modeled by Robert Dilts (NLP)
 - Blue Ocean Strategy: W. Chan Kim & Renée Mauborgne
 - Six Thinking Hats: Edward de Bono
+
+Framework descriptions assembled by Steff Vanhaverbeke with attribution to original authors.
 
 All frameworks referenced for educational purposes under fair use principles.
 

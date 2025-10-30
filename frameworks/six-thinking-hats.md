@@ -382,3 +382,13 @@ After using Six Hats:
 - **Application:** Use in meetings, workshops, strategic planning, and solo reflection
 
 **Remember:** The hats are not personality types. You're not "a Black Hat person." Everyone uses all hats—the method just ensures we use them one at a time, together. That's where the magic happens. Less arguing, more thinking.
+
+---
+
+## Attribution and Sources
+
+- Edward de Bono — "Six Thinking Hats" (Little, Brown and Company)
+- de Bono Thinking Systems and related training materials
+- Official de Bono resources and publications
+
+Framework description assembled by Steff Vanhaverbeke for educational use, with attribution to original author.

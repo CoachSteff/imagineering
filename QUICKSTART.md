@@ -11,7 +11,7 @@ In a world where AI handles routine tasks, your ability to imagine new possibili
 ## Start Here
 
 ### If you're taking an Imagineering course:
-1. **Browse the frameworks:** Start with [ICE Model](frameworks/ICE-model.md) to understand the basic structure
+1. **Browse the frameworks:** Start with [ICE Model](frameworks/ice-model.md) to understand the basic structure
 2. **Try the SuperPrompt:** Use [superprompt.md](superprompt.md) with ChatGPT or Claude on a real challenge
 3. **See examples:** Check out [example-session-1.md](examples/example-session-1.md) to see how it works in practice
 
@@ -25,15 +25,15 @@ This repository is designed to be forkable and adaptable. Review the [LICENSE.md
 
 ## The Four Core Frameworks
 
-### 1. [ICE Model](frameworks/ICE-model.md)
-**Imagine → Create → Execute**  
-Move systematically from wild ideas to practical results. Know when to dream big and when to get specific.
+### 1. [ICE-Model](frameworks/ice-model.md)
+**Innovation, Creativity, Entrepreneurship**  
+Seven non‑linear perspectives (PIT, Prikkel, Context, Vraag, Idee, Oplossing, Pitch) to move from trigger to tested solution.
 
-**Use when:** You need to balance creativity with execution
+**Use when:** You want a flexible, structured path from problem framing to solution and pitch
 
 ---
 
-### 2. [Disney Imagineering Method](frameworks/Disney-Imagineering.md)
+### 2. [Disney Imagineering Method](frameworks/disney-imagineering-strategy.md)
 **Dreamer → Realist → Critic**  
 Separate three thinking modes that conflict when used simultaneously.
 
@@ -41,7 +41,7 @@ Separate three thinking modes that conflict when used simultaneously.
 
 ---
 
-### 3. [Blue Ocean Strategy](frameworks/Blue-Ocean.md)
+### 3. [Blue Ocean Strategy](frameworks/blue-ocean-strategy.md)
 **Compete by not competing**  
 Create uncontested market space through value innovation.
 
@@ -49,11 +49,13 @@ Create uncontested market space through value innovation.
 
 ---
 
-### 4. [Six Thinking Hats](frameworks/6-Thinking-Hats.md)
+### 4. [Six Thinking Hats](frameworks/six-thinking-hats.md)
 **Parallel thinking for teams**  
 Everyone explores the same perspective together before switching to the next.
 
 **Use when:** Meetings devolve into argument instead of productive thinking
+
+Note: Framework descriptions are assembled by Steff Vanhaverbeke with attribution to original authors. See attribution sections inside each framework file.
 
 ## Using This Repository with AI
 

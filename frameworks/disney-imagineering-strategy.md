@@ -93,6 +93,19 @@ AI can help you stress-test ideas by:
 
 ## How to Run a Disney Imagineering Session
 
+### Process Overview (circular and iterative)
+
+Disney is not a one‑and‑done sequence. It is a circular loop:
+
+Dreamer → Realist → Critic → back to Dreamer → …
+
+You iterate through the circle until critical issues are resolved and the plan is strong enough to ship. The bridge from Critic back to Dreamer uses two reframing questions:
+
+1) What is the positive intent behind this critical point?  
+2) How can we achieve the dream/goal/vision while honoring that positive intent?
+
+These questions transform concerns into design constraints and new creative prompts for the next Dreamer round.
+
 ### Solo Session (30-60 minutes)
 
 **Setup:**
@@ -123,7 +136,9 @@ AI can help you stress-test ideas by:
 **Step 4: Integration (15 minutes)**
 - Review all three outputs
 - Refine the plan based on Critic feedback
-- Decide: Move forward, iterate, or loop back to Dreamer
+- Decide: Move forward, or loop back to Dreamer using the bridge:
+  - Positive intent?  
+  - How do we achieve the dream while considering it?
 
 ---
 
@@ -154,7 +169,7 @@ AI can help you stress-test ideas by:
 **Round 4: Integration (20 min)**
 - Synthesize insights
 - Refine plan based on Critic input
-- Agree on next steps
+- Agree on next steps or loop back to a fresh Dreamer round using the bridge questions. Repeat rounds until key risks are addressed.
 
 **Debrief (10 min)**
 - What did we learn?

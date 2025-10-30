@@ -4,7 +4,7 @@
 
 A SuperPrompt is a structured instruction set that gives AI the context, role, and frameworks it needs to think alongside you productively. Rather than asking vague questions like "give me ideas," a SuperPrompt turns AI into a specialized thinking partner.
 
-This SuperPrompt is built using the **CRAFTER framework** from the [SuperPrompt Framework](https://github.com/CoachSteff/superprompt-framework) methodology.
+This SuperPrompt is built using the **CRAFTER framework** from the [SuperPrompt Framework](https://github.com/CoachSteff/superprompt) methodology.
 
 ## The Imagineering SuperPrompt
 
@@ -94,8 +94,8 @@ Don't just run the session—document key insights, decisions, and next actions.
 For complex challenges, you can run multiple frameworks in sequence:
 
 1. **Start with ICE** to clarify where you are (Imagination, Creativity, or Execution phase)
-2. **Use Disney Method** to explore possibilities and test feasibility
-3. **Apply Blue Ocean** to identify differentiation opportunities
+2. **Use Disney Strategy** to explore possibilities and test feasibility
+3. **Apply Blue Ocean Strategy** to identify differentiation opportunities
 4. **Close with Six Hats** to stress-test from multiple perspectives
 
 Ask the AI to guide you through this sequence, pausing between each to reflect and synthesize.
@@ -119,7 +119,7 @@ Ask the AI to guide you through this sequence, pausing between each to reflect a
 This SuperPrompt is your starting point. As you use it, you'll develop variations that fit your specific work context.
 
 For more on the methodology behind this approach, see:
-- [SuperPrompt Framework](https://github.com/CoachSteff/superprompt-framework) — The parent methodology
+- [SuperPrompt Framework](https://github.com/CoachSteff/superprompt) — The parent methodology
 - [Examples](../examples/) — Real sessions showing this prompt in action
 - [Frameworks](../frameworks/) — Deep dives on each thinking model
 

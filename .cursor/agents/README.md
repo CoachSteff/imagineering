@@ -11,9 +11,26 @@ The Imagineering agent system is built on **human-centered augmentation** princi
 - **Transparency First**: All agent actions are visible and explainable
 - **Learning Focused**: Every decision prioritizes the learner experience
 
-## Our Three Agents
+## Our  Agents
 
-### 1. Repository Manager
+### 1. Orchestator Manager
+**Purpose**: Maintain project, plan steps, manage agents
+
+**Responsibilities**:
+- Achieve project goals
+- Run integrity checks
+- Plan steps
+- Delegate tasks
+
+**Key Files**:
+- `orchestator/instructions.md` - Complete agent guidelines
+- `orchestator/rules.md` - Operational rules
+- `orchestator/context/agent-awareness.md` - Self-awareness context
+
+---
+
+
+### 2. Repository Manager
 **Purpose**: Maintain file organization, GitHub configuration, and repository health
 
 **Responsibilities**:
@@ -29,7 +46,7 @@ The Imagineering agent system is built on **human-centered augmentation** princi
 
 ---
 
-### 2. Scribe
+### 3. Scribe
 **Purpose**: Maintain documentation quality, consistency, and accessibility
 
 **Responsibilities**:
@@ -45,7 +62,7 @@ The Imagineering agent system is built on **human-centered augmentation** princi
 
 ---
 
-### 3. Learning Guide
+### 4. Learning Guide
 **Purpose**: Help users navigate frameworks and apply them effectively
 
 **Responsibilities**:
@@ -74,6 +91,8 @@ All agents follow:
 ```
 User Request
      ↓
+Orchestator ←→ Plan steps
+     ↓
 Repository Manager ←→ Coordinates file structure
      ↓
 Scribe ←→ Ensures content quality  
@@ -90,6 +109,11 @@ Changes Implemented
 ## Agent Coordination
 
 ### When to Use Each Agent
+
+**Orchestrator*:
+- "Plan next steps"
+- "Review project condition"
+- "Delegate tasks"
 
 **Repository Manager**:
 - "Organize this new file properly"
